@@ -97,7 +97,7 @@
 
 /* image-content */
 .image-content{
-    background-image: url(/asset/img/image.jpg);
+    background-image: url(../asset/img/image.jpg);
     height: 350px;
     background-position: center;
     background-repeat: no-repeat;
@@ -196,7 +196,7 @@
 
 /* last-image-content */
 .last-image-content{
-    background-image:url(/asset/img/Mountain.jpg);
+    background-image:url(../asset/img/Mountain.jpg);
     height: 350px;
     background-position: center;
     background-repeat: no-repeat;
